@@ -6,7 +6,7 @@
 - email: yash8mehra
 - linkedin:
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I'm very good at fortnite
+- ⚡ Fun fact: ... 
 
 <!---
 yash8mehra/yash8mehra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
